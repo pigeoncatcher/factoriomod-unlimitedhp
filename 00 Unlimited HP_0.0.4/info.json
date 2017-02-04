@@ -1,11 +1,11 @@
 {
-  "name": "00 Unlimited HP",
+  "name": "Unlimited HP 0.4",
   "version": "0.0.4",
-  "title": "00 Unlimited HP",
+  "title": "Unlimited HP for v0.14.x",
   "author": "M",
   "contact": "https://github.com/mophydeen , pigeoncathcer",
   "homepage": "https://github.com/mophydeen , piegoncatcher",
-  "description": "Unlimited Health.",
+  "description": "Unlimited Health for Factorio 0.14. Updated from mophydeen's orginal work.",
   "factorio_version":"0.14",
   "dependencies": ["base >= 0.14.0"]
 }
